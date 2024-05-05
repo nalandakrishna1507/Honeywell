@@ -26,6 +26,8 @@ public class SendEmailToGuest {
            System.debug(e.getMessage());
        }
    }
+public static void min(){
+}
     
     public class inputvariables {
         @InvocableVariable
