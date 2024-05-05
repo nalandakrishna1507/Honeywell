@@ -26,7 +26,7 @@ public class SendEmailToGuest {
            System.debug(e.getMessage());
        }
    }
-public static void min(){
+public static void main(){
 }
     
     public class inputvariables {
